@@ -7,6 +7,7 @@ Behavioral diagram shows how the system works ‘in motion’, that is how the s
 ## Sequence Diagram:
 
 ## Flow chart:
+![Flow chart](https://user-images.githubusercontent.com/89726153/136704701-49f9c89e-2650-40fe-9445-d57ef6383e7c.jpg)
 
 
 # Tools:
