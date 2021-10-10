@@ -4,8 +4,12 @@ Structure diagrams depict the static structure of the elements in your system. i
 
 ## Activity Diagram:
 
+![Pyth_min_Activity drawio](https://user-images.githubusercontent.com/63805043/136702690-1b43e7bc-48ca-4edd-87eb-ceb6c5900e26.png)
+
+
 
 ## Class Diagram:
+![Python_min_classDiagram](https://user-images.githubusercontent.com/63805043/136702749-84961ef9-85f6-4dde-8e9f-be12518d4948.png)
 
 
 # Tools:
