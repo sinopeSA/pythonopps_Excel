@@ -26,3 +26,4 @@
 |PS no. |  Name   |    Features    | Issue Raised | Issue Resolved | 
 |-------|---------|----------------|--------|-------|
 | `40019138` | Shubham Agarwal| | 5 | 5 |
+|`40019077`| Manchiraju Shanmkh|
