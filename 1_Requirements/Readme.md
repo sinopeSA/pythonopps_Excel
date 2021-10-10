@@ -1,6 +1,6 @@
 # Requirements:
 ## Introduction:
-This project, programmed in python, will fetch the data of an employee when searched by his PS number.
+This project, programmed in python, will fetch the data of an employee from the ecxel sheets when searched by their PS number.
 
 ## Features:
 💨**Speed**
