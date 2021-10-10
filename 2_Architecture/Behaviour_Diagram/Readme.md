@@ -6,7 +6,7 @@ Behavioral diagram shows how the system works ‘in motion’, that is how the s
 
 ## Sequence Diagram:
 
-## Flow chat:
+## Flow chart:
 
 
 # Tools:
