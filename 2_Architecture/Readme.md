@@ -1,7 +1,7 @@
 # Architecture:
 
 ## what is desighn phase ?
-    In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, photo impressions and UML schemas. Here, i am going to put two structural and two behavioural diagram for SRM for better understanding
+In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, photo impressions and UML schemas. Here, i am going to put two structural and two behavioural diagram for SRM for better understanding
 
 ## UML Diagrams:
 ### BEHAVIOUR DIAGRAM:
