@@ -16,9 +16,12 @@ This project, programmed in python, will fetch the data of an employee when sear
 ### Strength:
 
 1.Can read the file without any errors.
-2. Easy to access.
-3. No redundancy will be found.
-4. An execel sheet can store thousands of data.
+
+2.Easy to access.
+
+3.No redundancy will be found.
+
+4.An execel sheet can store thousands of data.
 
 ### Weakness:
 1. Data duplication can cause problems.
