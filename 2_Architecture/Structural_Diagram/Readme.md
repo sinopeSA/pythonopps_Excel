@@ -5,7 +5,7 @@ Structure diagrams depict the static structure of the elements in your system. i
 ## Activity Diagram:
 
 
-## Activity Diagram:
+## Class Diagram:
 
 
 # Tools:
