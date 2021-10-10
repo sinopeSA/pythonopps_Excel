@@ -14,6 +14,7 @@ This project, programmed in python, will fetch the data of an employee when sear
 
 ## SWOT Analysis:
 ### Strength:
+
 1.Can read the file without any errors.
 2. Easy to access.
 3. No redundancy will be found.
