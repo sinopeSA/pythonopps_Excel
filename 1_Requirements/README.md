@@ -4,7 +4,10 @@ This project, programmed in python, will fetch the data of an employee from the 
 
 ## Features:
 💨**Speed**
+
 🟢**Opensource**
+
+
 
 ## Objective:
 - To design a robust tool that will extract employee's data fast from an excel sheet when needed.
