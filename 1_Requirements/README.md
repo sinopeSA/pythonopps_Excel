@@ -92,3 +92,4 @@ So can get whole information of person in a new excel sheet.
 5. The sheets must be accessable.
 6. There should be no redundency
 ## Gantt Chart:
+![chart](https://user-images.githubusercontent.com/89696284/136698012-716fe787-869a-4ea1-8d00-6c8c96fc4cba.PNG)
