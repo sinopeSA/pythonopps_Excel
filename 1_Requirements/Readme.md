@@ -7,7 +7,10 @@ This project, programmed in python, will fetch the data of an employee when sear
 🟢**Opensource**
 
 ## Objective:
-To design a robust tool that will extract employee's data fast from an excel sheet when needed. 
+- To design a robust tool that will extract employee's data fast from an excel sheet when needed.
+- Testing using Pytest
+- Write the code using user-defined functions
+- No usage of libraries such as pandas, Numpy, etc.
 
 ## SWOT Analysis:
 ### Strength:
