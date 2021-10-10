@@ -38,7 +38,7 @@
 ### Low Level Requirements:
 
 |**LLR.NO**|**Description**|**Depencency**|**Status(implemented/ future)**|
-|-------|------|------|
+|-------|------|------|-----|
 |HLR_1| The system must | HLR- 1 | Implemented|
 
 
