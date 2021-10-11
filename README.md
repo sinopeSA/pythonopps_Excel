@@ -2,7 +2,8 @@
 ## Defining of the Application:
 
 ## Badges:
-[![Git Inspector](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/gitinspector.yml)
+[![Pylint](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/Pylint.yml/badge.svg?branch=master)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/Pylint.yml)
+
 ## Folder Structure
 |Folder Name|Folder Defination|
 |---------------------------------|-----------------------------------------------------------------------------------------------------------|
