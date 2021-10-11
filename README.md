@@ -29,7 +29,7 @@ This project, programmed in python, will fetch the data of an employee from the 
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
 |-------|---------|----------------|
-| `40019138` | Shubham Agarwal| |
+| `40019138` | Shubham Agarwal| Undestanding Requiments, Designing UML Diagrams-Use Case Diagram, Implementation |
 |`40019077`| Manchiraju Shanmkh|  Requirements, Code |
 |`40019032`| Sultan Bepari|  Implementation, Pytest, Pylint, All badges collecting |
 
