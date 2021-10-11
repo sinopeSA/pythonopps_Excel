@@ -8,7 +8,6 @@ class PythonProject:
     ''' Class '''
     # Reading the Semester marks
     # of Requested PS Number
-    # pylint: disable=C0325
 
     data = ''
 
@@ -29,6 +28,8 @@ class PythonProject:
             excel_sheet = excel_obj[sheet_name]
         except UnboundLocalError as exception_error:
             print("Not Found", exception_error)
+        except FileNotFoundError as exception_error:
+            print("Not Found", exception_error)
 
         # Reading untill max row
         for i in range(1, excel_sheet.max_row + 1):
@@ -38,7 +39,7 @@ class PythonProject:
 
             # checking is the PS Number is
             # present in the sheet or not
-            if(ps_number == cur_cell):
+            if ps_number == cur_cell :
                 # Getting the current cell column size
                 cur_column = int(excel_sheet.cell(row=i, column=1).column)
 
@@ -65,6 +66,8 @@ class PythonProject:
             excel_sheet = excel_obj[sheet_name]
         except UnboundLocalError as exception_error:
             print("Not Found", exception_error)
+        except FileNotFoundError as exception_error:
+            print("Not Found", exception_error)
 
         # Reading untill max row
         for i in range(1, excel_sheet.max_row + 1):
@@ -74,7 +77,7 @@ class PythonProject:
 
             # checking is the PS Number is
             # present in the sheet or not
-            if (ps_number == cur_cell):
+            if ps_number == cur_cell:
 
                 # Getting the current cell column size
                 cur_column = int(excel_sheet.cell(row=i, column=1).column)
@@ -102,6 +105,8 @@ class PythonProject:
             excel_sheet = excel_obj[sheet_name]
         except UnboundLocalError as exception_error:
             print("Not Found", exception_error)
+        except FileNotFoundError as exception_error:
+            print("Not Found", exception_error)
 
         # Reading untill max row
         for i in range(1, excel_sheet.max_row + 1):
@@ -111,7 +116,7 @@ class PythonProject:
 
             # checking is the PS Number is
             # present in the sheet or not
-            if (ps_number == cur_cell):
+            if ps_number == cur_cell:
 
                 # Getting the current cell column size
                 cur_column = int(excel_sheet.cell(row=i, column=1).column)
@@ -139,6 +144,8 @@ class PythonProject:
             excel_sheet = excel_obj[sheet_name]
         except UnboundLocalError as exception_error:
             print("Not Found", exception_error)
+        except FileNotFoundError as exception_error:
+            print("Not Found", exception_error)
 
         # Reading untill max row
         for i in range(1, excel_sheet.max_row + 1):
@@ -148,7 +155,7 @@ class PythonProject:
 
             # checking is the PS Number is
             # present in the sheet or not
-            if (ps_number == cur_cell):
+            if ps_number == cur_cell:
 
                 # Getting the current cell column size
                 cur_column = int(excel_sheet.cell(row=i, column=1).column)
@@ -176,6 +183,8 @@ class PythonProject:
             excel_sheet = excel_obj[sheet_name]
         except UnboundLocalError as exception_error:
             print("Not Found", exception_error)
+        except FileNotFoundError as exception_error:
+            print("Not Found", exception_error)
 
         # Reading untill max row
         for i in range(1, excel_sheet.max_row + 1):
@@ -185,7 +194,7 @@ class PythonProject:
 
             # checking is the PS Number is
             # present in the sheet or not
-            if (ps_number == cur_cell):
+            if ps_number == cur_cell:
 
                 # Getting the current cell column size
                 cur_column = int(excel_sheet.cell(row=i, column=1).column)
@@ -280,5 +289,7 @@ class PythonProject:
             work_book.save(filename = dest_file_name)
         except UnboundLocalError as exception_error:
             print(exception_error)
+        except FileNotFoundError as exception_error:
+            print("Not Found", exception_error)
 
         return 0
