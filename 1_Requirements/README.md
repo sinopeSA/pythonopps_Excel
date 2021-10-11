@@ -32,9 +32,11 @@ This project, programmed in python, will fetch the data of an employee from the 
 
 ### Weakness:
 1. Data duplication can cause problems.
+2. Can only retrive data of one PS number at a time.
 
 ### Oppurtinities:
 1. Opportunity to make the program deal data duplicity well.
+2. Retriving several PS number data at a time. 
 
 ### Threats:
 1. Possibility to encapsulate the data.
