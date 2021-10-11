@@ -33,6 +33,6 @@ This project, programmed in python, will fetch the data of an employee from the 
 |`40019077`| Manchiraju Shanmkh|  Requirements, Code |
 |`40019032`| Sultan Bepari|  Entire Implementation, Pytest, Pylint, All badges collecting, Images and Videos |
 |`40019161`| Vijaymahantesh | Implementation, Pytest |
-| 40018934 | Monisrivalli | Designing UML Diagram - flow chart|
+|` 40018934`| Monisrivalli | Designing UML Diagram - flow chart|
 ## Issues raised
 - The issues Raised/resolved were done on the local machine during the team connect and the code implementation discussions.
