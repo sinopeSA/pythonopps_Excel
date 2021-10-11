@@ -6,7 +6,7 @@
 
 [![Pytest](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml/badge.svg?branch=master)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml)
 
-
+[![Git Inspector](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/gitinspector.yml/badge.svg?branch=master)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 |Folder Name|Folder Defination|
