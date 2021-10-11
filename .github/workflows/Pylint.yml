@@ -17,4 +17,4 @@ jobs:
         pip install -r 3_Implementation/requirements.txt
     - name: Lint with pylint 
       run: |
-        make Pylint -C 3_Implementation
+        pylint 3_Implementation/excel.py 3_Implementation/test_main.py
