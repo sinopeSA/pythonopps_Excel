@@ -28,7 +28,7 @@ This project, programmed in python, will fetch the data of an employee from the 
 
 3.No redundancy will be found.
 
-4.An execel sheet can store thousands of data.
+4.An execel sheet can store thousands of data. 
 
 ### Weakness:
 1. Data duplication can cause problems.
