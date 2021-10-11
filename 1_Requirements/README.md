@@ -1,11 +1,15 @@
 # Requirements:
 ## Introduction:
-This project, programmed in python, will fetch the data of an employee from the ecxel sheets when searched by their PS number.
+This project, programmed in python, will fetch the data of an employee from the ecxel sheets when searched by their PS number. It then stores the retrieved data in an excel file in the same path.
 
 ## Features:
+🍀**User Friendly**
+
 💨**Speed**
 
 🟢**Opensource**
+
+🥇**10/10 Pylint score**
 
 
 
