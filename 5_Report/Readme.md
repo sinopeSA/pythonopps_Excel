@@ -8,6 +8,7 @@ This project, programmed in python, will fetch the data of an employee from the 
 ## Challenges faced
 - Issues with github badges
 - Issues with github badges and testing
+- Pytest and Pyint
 - Issues with github in general as using github command line for a group project is new for the team
 - Working and managing a team of 10 people
 
