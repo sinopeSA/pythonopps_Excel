@@ -2,6 +2,7 @@
 ## Defining of the Application:
 
 ## Badges:
+[![Pytest](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml/badge.svg)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml)
 
 
 ## Folder Structure
