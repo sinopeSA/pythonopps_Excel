@@ -3,7 +3,7 @@
 
 ## Badges:
 [![Pytest](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml/badge.svg)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml)
-
+[![Pylint](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/Pylint.yml/badge.svg)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/Pylint.yml)
 
 ## Folder Structure
 |Folder Name|Folder Defination|
