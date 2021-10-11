@@ -1,11 +1,10 @@
 # pythonopps_Excel 
-## Defining of the Application:
+## What is it?
+This project, programmed in python, will fetch the data of an employee from the ecxel sheets when searched by their PS number. It then stores the retrieved data in an excel file in the same path.
 
 ## Badges:
 [![Pylint](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/Pylint.yml/badge.svg?branch=master)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/Pylint.yml)
-
 [![Pytest](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml/badge.svg?branch=master)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/pytest.yml)
-
 [![Git Inspector](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/gitinspector.yml/badge.svg?branch=master)](https://github.com/sinopeSA/pythonopps_Excel/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
@@ -24,6 +23,7 @@
 ## GitHub Actions
 * Pytest for testing
 * Git Inspector for statistical analysis
+* Pylint for code quality - 10/10
 
 
 ## Contributors List and Summary
@@ -31,3 +31,6 @@
 |-------|---------|----------------|
 | `40019138` | Shubham Agarwal| |
 |`40019077`| Manchiraju Shanmkh|  Requirements, Code |
+
+## Issues raised
+- The issues Raised/resolved were done on the local machine during the team connect and the code implementation discussions.
