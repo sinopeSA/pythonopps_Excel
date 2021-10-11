@@ -78,6 +78,7 @@ So can get whole information of person in a new excel sheet.
 |HLR_5| Not using the inbuilt fuctions of python| Implemented|
 |HLR_6| The program should have only user-defined functions| Implemented|
 |HLR_7| The program should not be using the inbuilt fuctions of python| Implemented|
+|HLR_8| The program is tested using pytest and pylint| Implemented|
 
 ### Low Level Requirements:
 |*LLR.No|Description|Dependency*|
