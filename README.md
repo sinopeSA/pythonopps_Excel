@@ -31,6 +31,7 @@ This project, programmed in python, will fetch the data of an employee from the 
 |-------|---------|----------------|
 | `40019138` | Shubham Agarwal| |
 |`40019077`| Manchiraju Shanmkh|  Requirements, Code |
+|`40019032`| Sultan Bepari|  Implementation, Pytest, Pylint, badges collecting |
 
 ## Issues raised
 - The issues Raised/resolved were done on the local machine during the team connect and the code implementation discussions.
